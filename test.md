@@ -1,2 +1,0 @@
-
-ITesting obj-1
