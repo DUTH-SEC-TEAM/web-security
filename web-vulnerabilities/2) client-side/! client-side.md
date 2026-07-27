@@ -1,4 +1,0 @@
-[[csrf]]
-[[cors]]
-[[clickjacking]]
-[[websockets]]

@@ -1,4 +1,3 @@
 [[! server-side-vulnerabilities]]
-[[! client-side]]
-[[! hybrid]]
+[[!client-side-vulnerabilities]]
 [[! advanced]]
